@@ -1,4 +1,6 @@
-#Web Scraping and Data Processing 
+#Web Scraping and Data Processing#
+
+
 *Overview* 
 This Python script is designed for web scraping and data processing. It allows you to scrape content from a list of URLs, extract specific elements from the HTML structure, and save the processed data.
 
